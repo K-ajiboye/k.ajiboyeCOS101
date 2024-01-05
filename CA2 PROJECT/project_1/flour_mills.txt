@@ -1,0 +1,5 @@
+company - Flour Mills
+shares - 32_000_000
+liabilities - 4_000_000
+date_founded - 1960
+leverage - 87.5%

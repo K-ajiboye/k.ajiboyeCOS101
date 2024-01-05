@@ -1,0 +1,5 @@
+company - Dangote Sugar
+shares - 18_000_000
+liabilities - 10_000_000
+date_founded - 1970
+leverage - 44.4%

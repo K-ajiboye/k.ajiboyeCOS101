@@ -1,0 +1,5 @@
+company - Cadbury
+shares - 15_000_000
+liabilities - 5_500_000
+date_founded - 1965
+leverage - 63.3%

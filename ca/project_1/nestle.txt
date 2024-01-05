@@ -1,0 +1,5 @@
+company - Nestle
+shares - 8_000_000
+liabilities - 1_500_000
+date_founded - 1961
+leverage - 81.3%

@@ -1,0 +1,5 @@
+company - Honeywell
+shares - 34_000_000
+liabilities - 9_000_000
+date_founded - 1906
+leverage - 73.5%

@@ -34,7 +34,7 @@ fn main(){
         println!("\nThe equation has only one real root");
     }
     let roots1:f64 = (-b + d.powf(0.5)) / 2.0;
-    let roots2:f64 = (-b - d.powf(0.5))/ 2.0;
+    let roots2:f64 = (-b - d.powf(0.5)/ 2.0;
 
     println!("\nThe roots of the equation are {} and {}",roots1 ,roots2 );
 

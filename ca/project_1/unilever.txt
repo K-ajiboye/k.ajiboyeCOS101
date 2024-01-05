@@ -1,0 +1,5 @@
+company - Unilever
+shares - 37_000_000
+liabilities - 11_000_000
+date_founded - 1923
+leverage - 70.3%

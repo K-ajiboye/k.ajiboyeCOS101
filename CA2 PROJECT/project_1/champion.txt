@@ -1,0 +1,5 @@
+company - Champion
+shares - 25_000_000
+liabilities - 8_000_000
+date_founded - 1974
+leverage - 68.0%

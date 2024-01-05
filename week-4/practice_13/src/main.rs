@@ -16,7 +16,7 @@ fn main()
    io::stdin().read_line(&mut input2).expect("Not a valid string");
    let b:f32 = input2.trim().parse().expect("Not a valid number");
 
-   println!("Enter third ege of triangle: ");
+   println!("Enter third edge of triangle: ");
    io::stdin().read_line(&mut input3).expect("Not a valid string");
    let c:f32 = input3.trim().parse().expect("Not a valid number");
 

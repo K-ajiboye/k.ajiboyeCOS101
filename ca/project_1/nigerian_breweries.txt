@@ -1,0 +1,5 @@
+company - Nigerian Breweries
+shares - 30_000_000
+liabilities - 12_000_000
+date_founded - 1946
+leverage - 60.0%

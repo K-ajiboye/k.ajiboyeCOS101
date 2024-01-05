@@ -1,0 +1,15 @@
+
+The information below displays information of convicted ministers.
+1)Aigbogun Ajamba Dauda
+Ministry.:Internal Affairs
+geopolotical zone:South West
+2)Murtala Afeez Bendu 
+Ministry.:Justice
+geopolotical zone:North East
+3)Okorocha Calistus Ogbona
+,4)Adewale Jimoh Akanbi
+Ministry.:Defense
+geopolotical zone:South South
+5)Osazuwa Faith Etieye
+Ministry.:Power & Steel
+geopolotical zone:South West
