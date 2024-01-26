@@ -1,7 +1,7 @@
 use std::io::Read;
 use std::io;
 
-fn main() {
+fn main(){
     let mut file1 = std::fs::File::open("staff_tb.sql").unwrap();
     let mut contents1 = String::new();
     file1.read_to_string(&mut contents1).unwrap();
